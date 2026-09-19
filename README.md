@@ -1,23 +1,35 @@
 # Jai
 
-Engineering student building things with **code, hardware & AI.**
+Engineering student exploring **AI, embedded systems, IoT and emerging technology.**
 
-Currently exploring:
-- Embedded Systems
-- IoT
-- Artificial Intelligence
+I like turning ideas into practical projects by combining **hardware, software and AI**.
+
+## Exploring
+
+- AI + Embedded Systems
+- IoT & Smart Devices
+- Embedded Programming
 - Computer Vision
+- Hardware Prototyping
+- Automation
+- Experimental & Personal Devices
 
 ## Projects
 
-🦈 **ESP32 Multi-Function Device**  
-Portable embedded-system experiments and hardware development.
-
 🤖 **Project Awakening**  
-A personal AI-powered system for life tracking and automation.
+A personal AI-powered system exploring life tracking, automation and intelligent assistance.
 
-🌊 **Aqua Sentinel**  
-AI-based underwater monitoring and detection.
+🔧 **Embedded & IoT Projects**  
+Experiments with ESP32, sensors, displays, wireless communication and connected devices.
+
+🧠 **AI + Hardware**  
+Exploring ways to bring AI capabilities into embedded and physical systems.
+
+⚡ **Experimental Devices**  
+Designing and prototyping new ideas for compact, useful and unconventional devices.
+
+🚀 **More Projects**  
+Always experimenting with new ideas, technologies and prototypes.
 
 ## Stack
 
