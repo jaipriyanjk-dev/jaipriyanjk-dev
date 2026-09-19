@@ -1,16 +1,32 @@
-## Hi there 👋
+# Jai
 
-<!--
-**jaipriyanjk-dev/jaipriyanjk-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student building things with **code, hardware & AI.**
 
-Here are some ideas to get you started:
+Currently exploring:
+- Embedded Systems
+- IoT
+- Artificial Intelligence
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+🦈 **ESP32 Multi-Function Device**  
+Portable embedded-system experiments and hardware development.
+
+🤖 **Project Awakening**  
+A personal AI-powered system for life tracking and automation.
+
+🌊 **Aqua Sentinel**  
+AI-based underwater monitoring and detection.
+
+## Stack
+
+`C` `C++` `Python` `ESP32` `Arduino` `OpenCV` `PyTorch` `FastAPI`
+
+## Currently Building
+
+> Turning ideas into things that actually work.
+
+---
+
+[GitHub](https://github.com/jaipriyanjk-dev)
