@@ -14,7 +14,7 @@ I like turning ideas into practical projects by combining **hardware, software a
 - Automation
 - Experimental & Personal Devices
 
-## Projects
+## What I'm Building
 
 🤖 **Project Awakening**  
 A personal AI-powered system exploring life tracking, automation and intelligent assistance.
